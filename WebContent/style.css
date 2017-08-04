@@ -1,0 +1,20 @@
+.cool {
+	color: red;
+}
+.bluebox, .purplebox {
+	height: 50px;
+	width: 50px;
+	display: inline-block;
+}
+
+div {
+	font-size: 0;
+}
+
+.bluebox {
+	background-color: blue;
+}
+
+.purplebox {
+	background-color: purple;
+}
